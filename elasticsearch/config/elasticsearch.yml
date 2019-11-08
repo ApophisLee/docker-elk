@@ -16,3 +16,5 @@ discovery.type: single-node
 xpack.license.self_generated.type: trial
 xpack.security.enabled: true
 xpack.monitoring.collection.enabled: true
+
+cluster.routing.allocation.disk.threshold_enabled : false
